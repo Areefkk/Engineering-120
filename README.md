@@ -8,10 +8,7 @@ There are three key areas in interview preparation
 2) Technical 
 3) Mindset
 
-<img width="323" alt="Screenshot 2022-07-01 212527" src="https://user-images.githubusercontent.com/36210165/176964804-64582285-5eb3-4d77-b19d-ebe648e994d6.png">
-
-<img width="395" alt="Screenshot 2022-07-01 212602" src="https://user-images.githubusercontent.com/36210165/176964840-66139e68-cef4-4e73-a398-ff8114078b33.png">
-
+<img width="323" alt="Screenshot 2022-07-01 212527" src="https://user-images.githubusercontent.com/36210165/176964804-64582285-5eb3-4d77-b19d-ebe648e994d6.png"> <img width="395" alt="Screenshot 2022-07-01 212602" src="https://user-images.githubusercontent.com/36210165/176964840-66139e68-cef4-4e73-a398-ff8114078b33.png">
 <img width="277" alt="Screenshot 2022-07-01 212623" src="https://user-images.githubusercontent.com/36210165/176964865-018a9ffe-f049-4739-bb82-e1d8dbc92935.png">
 
 29/06/2022
@@ -24,6 +21,7 @@ There are three key areas in interview preparation
 - * & - : bullet point
 
 ### Mermaid
+Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.
 ### Shells and Scripting 
 #### Command list
 - Get Help- Displays information about Windows powershell
@@ -110,6 +108,23 @@ There are three key areas in interview preparation
      
 
 ### Estimation and Priority
+#### MoSCoW requiremnts
+**M** - Must have
+
+Describes a requirement that must be satisfied in the final solution to be considered a success
+
+**S** - Should have
+
+Represents a high-prority item that should be included in the solution if it is possible
+
+**C** - Could have
+
+Describes a requirement which is considered desirable but not necessary
+
+**W** - Won't have
+
+Represents a requirement that stakeholders have agreed will not be implemented in a given release, but may be considered for the future
+
 ### Done and Ready
 
 
